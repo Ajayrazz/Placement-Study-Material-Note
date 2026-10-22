@@ -13,6 +13,7 @@ A comprehensive, interview-focused preparation repository tailored for **Softwar
 | **Computer Networks (CN)** | [Computer_Networks_Mastery_Guide.md](./Computer_Networks_Mastery_Guide.md) | OSI vs TCP/IP, DNS resolution flow, HTTP/1.1-2-3 (QUIC), TLS 1.3 Handshake, TCP 3-Way/4-Way, Congestion Control (AIMD), Subnetting, NAT, and "What happens when you type google.com". |
 | **Software Engineering (SE)** | [Software_Engineering_Mastery_Guide.md](./Software_Engineering_Mastery_Guide.md) | SDLC, Agile vs. Scrum vs. Kanban, Monolith vs. Microservices, Testing Pyramid, CI/CD, Deployment strategies (Canary, Blue-Green), Clean Code & Technical Debt. |
 | **Structured Query Language (SQL)** | [SQL_Mastery_Guide.md](./SQL_Mastery_Guide.md) | Query execution order, Joins mechanics, Window functions (RANK, DENSE_RANK, LEAD, LAG), B+ Tree indexing, ACID & MVCC, Normalization (1NF-BCNF), Top 10 Query challenges. |
+| **Database Management Systems (DBMS)** | [DBMS_Mastery_Guide.md](./DBMS_Mastery_Guide.md) | 3-Schema Architecture, Relational Algebra, Serializability & Precedence Graphs, 2PL Concurrency, ARIES Recovery, CAP/PACELC, Distributed Sharding. |
 
 ---
 
@@ -22,7 +23,8 @@ A comprehensive, interview-focused preparation repository tailored for **Softwar
 - [x] Operating Systems (OS)
 - [x] Computer Networks (CN)
 - [x] Software Engineering (SE & Agile)
-- [x] Database Management Systems (DBMS / SQL)
+- [x] Structured Query Language (SQL)
+- [x] Database Management Systems (DBMS)
 - [ ] System Design Fundamentals (LLD & HLD Basics)
 - [ ] Core Data Structures & Algorithms (Patterns & Cheatsheets)
 
